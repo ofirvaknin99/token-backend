@@ -66,3 +66,8 @@ It provides an HTTP API to fetch the structure of files and directories from a p
   ]
 }
 ```
+
+## Steps to run the project
+
+In the project directory, you can run:
+python3 index.py
